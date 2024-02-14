@@ -30,5 +30,7 @@ images and resolution (3840 x 2160) are similar. The depth images can be convert
 intrinsics in the file `oak-d-s2-poe_conf.json` (`color_int`).
 
 
-### Contributing
-This repository contains a demo script, intended to kickstart the analysis of depth imaging.
+### Contributing & License
+This repository contains a demo script, intended to kickstart the analysis of depth imaging. Please report any issues, but we cannot promise a quick fix.
+
+
